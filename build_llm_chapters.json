@@ -1,0 +1,62 @@
+[
+  {
+    "title": "1. Understanding large language models",
+    "start_page": 1,
+    "end_page": 16
+  },
+  {
+    "title": "2. Working with text data",
+    "start_page": 17,
+    "end_page": 49
+  },
+  {
+    "title": "3. Coding attention mechanisms",
+    "start_page": 50,
+    "end_page": 91
+  },
+  {
+    "title": "4. Implementing a GPT model from scratch to generate text",
+    "start_page": 92,
+    "end_page": 127
+  },
+  {
+    "title": "5. Pretraining on unlabeled data",
+    "start_page": 128,
+    "end_page": 168
+  },
+  {
+    "title": "6. Fine-tuning for classification",
+    "start_page": 169,
+    "end_page": 203
+  },
+  {
+    "title": "7. Fine-tuning to follow instructions",
+    "start_page": 204,
+    "end_page": 250
+  },
+  {
+    "title": "A. Introduction to PyTorch",
+    "start_page": 251,
+    "end_page": 288
+  },
+  {
+    "title": "B. References and further reading",
+    "start_page": 289,
+    "end_page": 299
+  },
+  {
+    "title": "C. Exercise solutions",
+    "start_page": 300,
+    "end_page": 312
+  },
+  {
+    "title": "D. Adding bells and whistles to the training loop",
+    "start_page": 313,
+    "end_page": 321
+  },
+  {
+    "title": "E. Parameter-efficient fine-tuning with LoRA",
+    "start_page": 322,
+    "end_page": 370
+  }
+]
