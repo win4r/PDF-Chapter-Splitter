@@ -1,5 +1,9 @@
 # PDF Chapter Splitter
 
+### 🚀🚀🚀我的微信：stoeng
+### 🚀🚀🚀我的频道：[YouTube](https://www.youtube.com/@AIsuperdomain)
+
+
 一个用于按章节拆分PDF文件的工具，支持自动和手动两种模式。适用于教科书、技术手册、电子书等文档的章节拆分，方便单独阅读和分析。
 
 A tool for splitting PDF files by chapters, supporting both automatic and manual modes. Suitable for textbooks, technical manuals, ebooks, and other documents that need to be split by chapters for easier reading and analysis.
